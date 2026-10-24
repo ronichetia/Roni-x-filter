@@ -289,14 +289,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """
 
 
-    IMDB_TEMPLATE_TXT = """<b><a href={url}>{title}</a> (<a href={url}/releaseinfo>{year}</a>)</b>
-
-ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a>
-ɢᴇɴʀᴇ : {genres}
-ᴀᴜᴅɪᴏ : {languages}
-
-sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
-<b>ʀᴇǫ ʙʏ : {message.from_user.mention}</b>"""
+    IMDB_TEMPLATE_TXT = """<b><a href={url}>{title}</a> (<a href={url}/releaseinfo>{year}</a>)</b>"""
 
     LOGO = r"""
     ██████╗░██████╗░███████╗░█████╗░███╗░░░███╗██╗░░██╗██████╗░░█████╗░████████╗███████╗
