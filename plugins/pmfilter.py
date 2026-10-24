@@ -192,7 +192,7 @@ async def next_page(client, query):
         btn.insert(0,
                    [
                        InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                           "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
 
@@ -213,7 +213,7 @@ async def next_page(client, query):
                    )
         btn.insert(0, [
             InlineKeyboardButton(
-                "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
             InlineKeyboardButton("Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
         ])
     if ULTRA_FAST_MODE:
@@ -466,7 +466,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0,
                    [
                        InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                           "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
                    ])
@@ -485,7 +485,7 @@ async def filter_qualities_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0,
                    [
                        InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                           "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
 
@@ -620,7 +620,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0,
                    [
                        InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                           "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
                    ]
@@ -639,7 +639,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
         btn.insert(0,
                    [
                        InlineKeyboardButton(
-                           "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                           "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                        InlineKeyboardButton(
                            "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
                    ])
@@ -770,7 +770,7 @@ async def filter_seasons_cb_handler(client: Client, query: CallbackQuery):
         0,
         [
             InlineKeyboardButton(
-                "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
             InlineKeyboardButton("Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS),
         ],
     )
@@ -1510,7 +1510,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0,
                        [
                            InlineKeyboardButton(
-                               "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                               "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                            InlineKeyboardButton(
                                "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
 
@@ -1530,7 +1530,7 @@ async def auto_filter(client, msg, spoll=False):
             btn.insert(0,
                        [
                            InlineKeyboardButton(
-                               "ʀᴇᴍᴏᴠᴇ ᴀᴅs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
+                               "ᴅᴏɴᴀᴛᴇ ᴜs", url=f"https://t.me/{temp.U_NAME}?start=premium", style=enums.ButtonStyle.PRIMARY),
                            InlineKeyboardButton(
                                "Sᴇɴᴅ Aʟʟ", callback_data=f"sendfiles#{key}", style=enums.ButtonStyle.SUCCESS)
                        ])
@@ -1617,16 +1617,16 @@ async def auto_filter(client, msg, spoll=False):
             temp.IMDB_CAP[message.from_user.id] = None
             if ULTRA_FAST_MODE:
                 if settings.get('button'):
-                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code>\n⏰ ʀᴇsᴜʟᴛ ɪɴ : <code>{remaining_seconds} Sᴇᴄᴏɴᴅs</code>\n\n📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}\n⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ⚡ {message.chat.title or temp.B_LINK or 'ᴅʀᴇᴀᴍxʙᴏᴛᴢ'} \n\n<u>Your Requested Files Are Here</u> \n\n</b>"
+                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code> \n\n<u>ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ꜰɪʟᴇs</u> \n\n</b>"
                 else:
-                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code>\n⏰ ʀᴇsᴜʟᴛ ɪɴ : <code>{remaining_seconds} Sᴇᴄᴏɴᴅs</code>\n\n📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}\n⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ⚡ {message.chat.title or temp.B_LINK or 'ᴅʀᴇᴀᴍxʙᴏᴛᴢ'} \n\n<u>Your Requested Files Are Here</u> \n\n</b>"
+                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code> \n\n<u>ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ꜰɪʟᴇs</u> \n\n</b>"
                     for idx, file in enumerate(files, start=1):
                         cap += f"<b>\n{idx}. <a href='https://telegram.me/{temp.U_NAME}?start=file_{message.chat.id}_{file.file_id}'>[{get_size(file.file_size)}] {clean_filename(file.file_name)}\n</a></b>"
             else:
                 if settings.get('button'):
-                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code>\n🧱 ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : <code>{total_results}</code>\n⏰ ʀᴇsᴜʟᴛ ɪɴ : <code>{remaining_seconds} Sᴇᴄᴏɴᴅs</code>\n\n📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}\n⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ⚡ {message.chat.title or temp.B_LINK or 'ᴅʀᴇᴀᴍxʙᴏᴛᴢ'} \n\n<u>Your Requested Files Are Here</u> \n\n</b>"
+                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code> \n\n<u>ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ꜰɪʟᴇs</u> \n\n</b>"
                 else:
-                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code>\n🧱 ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ : <code>{total_results}</code>\n⏰ ʀᴇsᴜʟᴛ ɪɴ : <code>{remaining_seconds} Sᴇᴄᴏɴᴅs</code>\n\n📝 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ : {message.from_user.mention}\n⚜️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : ⚡ {message.chat.title or temp.B_LINK or 'ᴅʀᴇᴀᴍxʙᴏᴛᴢ'} \n\n<u>Your Requested Files Are Here</u> \n\n</b>"
+                    cap = f"<b>Rᴇsᴜʟᴛs Fᴏʀ : <code>{search}</code> \n\n<u>ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ꜰɪʟᴇs</u> \n\n</b>"
 
                     for idx, file in enumerate(files, start=1):
                         cap += f"<b>\n{idx}. <a href='https://telegram.me/{temp.U_NAME}?start=file_{message.chat.id}_{file.file_id}'>[{get_size(file.file_size)}] {clean_filename(file.file_name)}\n</a></b>"
