@@ -203,7 +203,7 @@ BAD_WORDS = {
     "www",
     "villa",
     "tg",
-    "original"
+    "@adrama_lovers"
 } # Set of bad words to filter out
 
 # ============================
